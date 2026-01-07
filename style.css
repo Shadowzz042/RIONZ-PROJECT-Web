@@ -62,7 +62,7 @@ html {
   color: black;
   text-decoration: none;
   font-size: 30px;
-  width: 720x;
+  width: 720px;
   height: 480px;
   display: flex;
   flex-direction: column;
@@ -91,3 +91,4 @@ html {
   font-size: 40px;
   color: rgb(238, 221, 221);
 }
+
